@@ -1,1 +1,6 @@
 /client/my-app/yarn.lock
+/data/
+/server/node_modules/
+/client/my-app/node_modules/
+/client/my-app/.next/
+/server/yarn.lock
