@@ -4,3 +4,9 @@
 /client/my-app/node_modules/
 /client/my-app/.next/
 /server/yarn.lock
+.idea/
+.vscode/
+node_modules/
+build/
+tmp/
+temp/
